@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/bhumipradhan">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=E6E6FA&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Bhumi%20Pradhan" alt="Hello! I&#39;m Bhumi Pradhan" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4561ed&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Bhumi%20Pradhan" alt="Hello! I&#39;m Bhumi Pradhan" />
   </a>
 </p>
 
@@ -53,13 +53,13 @@ CSIT Student | Exploring ideas, solving problems &amp; building meaningful proje
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bhumipradhan&layout=compact&theme=tokyonight&title_color=687ff3&icon_color=687ff3&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bhumipradhan&layout=compact&theme=tokyonight&title_color=4561ed&icon_color=4561ed&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bhumipradhan&bg_color=00000000&color=687ff3&line=687ff3&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bhumipradhan&bg_color=00000000&color=4561ed&line=4561ed&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
